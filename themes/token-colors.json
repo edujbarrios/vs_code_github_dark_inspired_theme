@@ -1,0 +1,75 @@
+[
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#6a737d"
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#d73a49"
+      }
+    },
+    {
+      "scope": ["storage", "keyword.control"],
+      "settings": {
+        "foreground": "#d73a49"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#032f62"
+      }
+    },
+    {
+      "scope": ["entity.name.type"],
+      "settings": {
+        "foreground": "#005cc5"
+      }
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#6f42c1"
+      }
+    },
+    {
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#e36209"
+      }
+    },
+    {
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#005cc5"
+      }
+    },
+    {
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#e36209"
+      }
+    },
+    {
+      "scope": ["support.function"],
+      "settings": {
+        "foreground": "#6f42c1"
+      }
+    },
+    {
+      "scope": ["meta.function-call"],
+      "settings": {
+        "foreground": "#6f42c1"
+      }
+    },
+    {
+      "scope": ["variable.language"],
+      "settings": {
+        "foreground": "#d73a49"
+      }
+    }
+  ]
+  

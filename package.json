@@ -1,0 +1,25 @@
+{
+    "name": "github-dark-theme",
+    "displayName": "GitHub Dark Theme",
+    "description": "A GitHub Dark Theme for Visual Studio Code.",
+    "version": "1.0.0",
+    "publisher": "Eduardo J. Barrios",
+    "engines": {
+      "vscode": "^1.38.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+      "themes": [
+        {
+          "label": "GitHub Dark",
+          "uiTheme": "vs-dark",
+          "path": "./themes/color-theme.json"
+        }
+      ]
+    },
+    "activationEvents": [
+      "onTheme:GitHub Dark"
+    ],
+    "keywords": ["theme", "github", "dark"]
+  }
+  
